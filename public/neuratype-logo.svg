@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="40px" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brain icon -->
+  <path d="M20 8C14.477 8 10 12.477 10 18C10 23.523 14.477 28 20 28C25.523 28 30 23.523 30 18C30 12.477 25.523 8 20 8Z" stroke="#7F56D9" stroke-width="2" fill="none"/>
+  <path d="M16 18C16 16.895 16.895 16 18 16H22C23.105 16 24 16.895 24 18C24 19.105 23.105 20 22 20H18C16.895 20 16 19.105 16 18Z" fill="#7F56D9"/>
+  <path d="M18 20V24" stroke="#7F56D9" stroke-width="2" stroke-linecap="round"/>
+  <path d="M22 20V24" stroke="#7F56D9" stroke-width="2" stroke-linecap="round"/>
+  <path d="M18 12V16" stroke="#7F56D9" stroke-width="2" stroke-linecap="round"/>
+  <path d="M22 12V16" stroke="#7F56D9" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="40" y="22" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#7F56D9">NeuraType</text>
+  <text x="130" y="22" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#22C55E">AI</text>
+</svg>
